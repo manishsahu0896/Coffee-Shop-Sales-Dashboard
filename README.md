@@ -5,8 +5,7 @@ This Power BI dashboard analyzes coffee shop sales data to provide insights into
 
 ## 📷 Dashboard Preview
 
-![Dashboard](https://github.com/manishsahu0896/Coffee-Shop-Sales-Dashboard/blob/main/dashboard..jpeg))
-
+dashboard..jpeg
 ## 🚀 Tools Used
 - Power BI
 - SQL
